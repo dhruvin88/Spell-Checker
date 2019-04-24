@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#ignore turn in files and folder
+drpatel_assignment2
+drpatel_assignment2.zip
